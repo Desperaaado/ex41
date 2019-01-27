@@ -1,2 +1,2 @@
-# skeleton
-The skeleton for any project.
+# ex41
+update sql.
